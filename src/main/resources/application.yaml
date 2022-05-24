@@ -1,0 +1,4 @@
+#服务类配置
+spring:
+  profiles:
+    active: fat
